@@ -49,8 +49,7 @@ Portal showcasing Pune colleges, achievements, and accreditations.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gemini-feli&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gemini-feli&layout=compact&theme=tokyonight)
 ---
 
 ## 🔥 GitHub Streak
@@ -67,8 +66,7 @@ Portal showcasing Pune colleges, achievements, and accreditations.
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/gemini-feli)
-
+⭐️ From [gemini-feli](https://github.com/gemini-feli)
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/gemini-feli/gemini-feli/blob/output/github-contribution-grid-snake-dark.svg)
