@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Felixeena Thomas</h1>
 <h3 align="center">Information Technology Student | Full Stack Developer | Aspiring Software Engineer</h3>
 
@@ -61,11 +61,16 @@ Portal showcasing Pune colleges, achievements, and accreditations.
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)][(YOUR_LINKEDIN_LINK)](https://www.linkedin.com/in/felixeena-thomas-994468311/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felixeena-thomas-994468311/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/gemini-feli)
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-```
+⭐️ From [YOUR_USERNAME](https://github.com/gemini-feli)
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/gemini-feli/gemini-feli/blob/output/github-contribution-grid-snake-dark.svg)
+
+
